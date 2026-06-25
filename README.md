@@ -46,7 +46,11 @@ var elias = new Entwickler
 ### 🐍 Aktivität
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sirkyomi/sirkyomi/output/snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirkyomi/sirkyomi/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirkyomi/sirkyomi/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/sirkyomi/sirkyomi/output/snake.svg" alt="Contribution Snake" />
+  </picture>
 </p>
 
 <p align="center">
